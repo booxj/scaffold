@@ -1,0 +1,1 @@
+java -jar ${appName}.jar --spring.profiles.active=${profile},demo
